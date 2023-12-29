@@ -48,6 +48,7 @@ __latexindent*
 *.pdfsync
 *.ptc
 *.pyg
+*.pdf
 *.run.xml
 *.snm
 *.synctex.gz
